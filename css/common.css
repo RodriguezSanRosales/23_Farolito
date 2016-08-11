@@ -1,0 +1,120 @@
+	/*Colores*/
+.Gris{
+	color: #989898;
+	}  
+.Grisoscuro{
+	color: #4d4545;
+	}
+.Celeste{
+	color: #04B4AE;
+	} 
+.Anaranjado{
+	color: #FF4000;
+	}  
+.Verde{
+	color: #77d248;
+	} 
+.Amarillo{
+	color: #ffc200;
+	} 	
+.verdeAzu {
+    color: #04B4AE;
+}	
+.white {
+	color: white;
+}
+	/*Tipo de letra*/
+
+*{
+	font-family: 'Lato', sans-serif;
+}
+/*enlace*/
+.enlace:hover {
+	-webkit-box-shadow: inset hoff voff blur color;
+	box-shadow: inset hoff voff blur color;
+	/*Tamaño de letra*/
+}
+.font1{
+	font-size: 1em;
+}
+.font2{
+	font-size: 1.5em;
+}
+.font3{
+	font-size: 2em;
+}
+.font4{
+	font-size: 3em;
+}
+	/*Alinear*/
+.izq{
+	text-align: left;
+}
+.der{
+	text-align: right;
+}
+.center {
+	text-align: center;
+}
+
+	/*Imagenes*/
+img{
+	display: block;
+	margin: auto;
+}
+	/*parrafos*/
+p{
+	text-align: center;
+}
+	/*Margenes*/
+.mt5{
+	margin-top: 5%;
+}	
+.mt10{
+	margin-top: 10%;
+}
+.mt30{
+	margin-top: 30%;
+}
+.mb5{
+	margin-bottom: 5%;
+}
+.mb10{
+	margin-bottom: 10%;
+}
+.pl25 {
+	padding: 0 7%;
+}
+.mlef  {
+	margin-left: 5%;
+}
+.mtp {
+	margin-top: 7%;
+}
+
+	/*botones*/
+button{
+	display: block;
+	margin: auto;
+	padding: 2%;
+	border-radius: 10px 10px 10px 10px;
+	border: none;
+}
+	/*Secciones*/
+section{
+	width: 100%;
+}	
+	/*Encabezados*/
+h1{
+	text-align: center;
+	margin-bottom: 5%;
+	margin-top: 5%;
+	font-size: 2.5em;
+}
+h2{
+	text-align: center;
+	margin-bottom: 5%;
+}
+h3{
+	text-align: center;
+}
